@@ -1,4 +1,4 @@
-FROM alpine
+FROM ogomez/arm32v7-alpine
 
 LABEL maintainer Bill Wang <ozbillwang@gmail.com>
 
