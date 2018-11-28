@@ -1,4 +1,4 @@
-FROM ogomez/arm32v7-alpine
+FROM resin/raspberrypi3-alpine
 
 LABEL maintainer Bill Wang <ozbillwang@gmail.com>
 
